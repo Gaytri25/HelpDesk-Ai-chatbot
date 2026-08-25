@@ -1,0 +1,6 @@
+{
+  "name": "HelpDesk AI",
+  "description": "Smart Website Customer Support Chatbot with intent classification, predefined commercial knowledge retrieval, and Smart Action Cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
