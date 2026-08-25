@@ -7,7 +7,7 @@ The chatbot uses **Natural Language Processing (NLP)** and a predefined knowledg
 ## 🌐 Live Demo / Output
 
 🚀 **Live Website:**
-**[Open HelpDesk AI Chatbot](YOUR-LIVE-WEB-URL)**
+**[Open HelpDesk AI Chatbot]([(https://help-desk-ai-chatbot.vercel.app/)])**
 
 > Replace `YOUR-LIVE-WEB-URL` with your actual deployed website URL.
 
