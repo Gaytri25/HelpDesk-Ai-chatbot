@@ -7,13 +7,13 @@ The chatbot uses **Natural Language Processing (NLP)** and a predefined knowledg
 ## 🌐 Live Demo / Output
 
 🚀 **Live Website:**
-**[Open HelpDesk AI Chatbot]([(https://help-desk-ai-chatbot.vercel.app/)])**
+**[Open HelpDesk AI Chatbot]([ https://helpdesk-ai.ai.studio  ])**
 
 
 ### Example
 
 ```text
-https://help-desk-ai-chatbot.vercel.app/
+(https://helpdesk-ai.ai.studio)
 ```
 
 ### 📸 Application Output
